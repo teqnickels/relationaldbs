@@ -151,48 +151,53 @@ Find a couple of large datasets online, create databases for them, and practice 
  2 large datasets are included as CSV or JSON data in a folder called datasets/.
  SQL schema creating tables for the datasets are inclued in your repo.
  10+ queries against the datasets are included in files in your repo.
-Resources
+
+# Resources
 
 Use these resources to fill in the gaps in your skills and knowledge as you find them. There is more here than you can do in a week, so focus on the areas that are in your zone of proximal development (ZPD).
 
-Courses
+##Courses
 
-Khan Academy: Intro to SQL: Querying and managing data #sql #db
-SQL basics
-More advanced SQL queries
-Relational queries in SQL
-Modifying databases with SQL
-Treehouse: Querying Relational Databases (2h) #sql #db
-Treehouse: SQL Basics #sql #db
-Treehouse: Modifying Data With SQL #sql #db
-Lynda: SQL Essential Training (3h 2m) #sql #db
-Exercises
+-Khan Academy: Intro to SQL: Querying and managing data #sql #db
+  -SQL basics
+  -More advanced SQL queries
+  -Relational queries in SQL
+  -Modifying databases with SQL
+-Treehouse: Querying Relational Databases (2h) #sql #db
+-Treehouse: SQL Basics #sql #db
+-Treehouse: Modifying Data With SQL #sql #db
+-Lynda: SQL Essential Training (3h 2m) #sql #db
 
-SQL Bolt #sql #db
-SQL Zoo #sql #db
-Guides
+##Exercises
+-SQL Bolt #sql #db
+-SQL Zoo #sql #db
 
-CodeMentor: Getting Started with PostgreSQL on Mac OSX #devops #sql #postgresql
-Punit’s instructions for installing Homebrew + PostgreSQL (on a mac) #postgresql
-Tools
+##Guides
 
-Quick DB Diagrams #sql
-SQL Designer #sql
-Mock Data Generator #data #db
-Postico: PostgreSQL Client for the Mac #sql #postgresql #macapp
-Generating Mock Data
+-CodeMentor: Getting Started with PostgreSQL on Mac OSX #devops #sql #postgresql
+-Punit’s instructions for installing Homebrew + PostgreSQL (on a mac) #postgresql
+
+##Tools
+
+-Quick DB Diagrams #sql
+-SQL Designer #sql
+-Mock Data Generator #data #db
+-Postico: PostgreSQL Client for the Mac #sql #postgresql #macapp
+
+
+##Generating Mock Data
 
 To quickly generate some “mock” (fake) data for your database, you can use a tool like Mockaroo.
 
 It isn’t too hard. Just follow these steps:
 
-Pick a table from your database
-Go to the Mockaroo app
-Add the fields you want to generate mock data for (make sure to match the spelling/capitalization of your table columns!)
-Pick the corresponding data type to use for each field
-Customize the options (if you want to)
-Determine the # of rows to generate
-Select the SQL format
-Specify the table name
-Click Download data
-Copy the SQL statements from the downloaded file into your SQL console and execute them!
+1. Pick a table from your database
+2. Go to the Mockaroo app
+3. Add the fields you want to generate mock data for (make sure to match the spelling/capitalization of your table columns!)
+4. Pick the corresponding data type to use for each field
+5. Customize the options (if you want to)
+6. Determine the # of rows to generate
+7. Select the SQL format
+8. Specify the table name
+9. Click Download data
+10. Copy the SQL statements from the downloaded file into your SQL console and execute them!
