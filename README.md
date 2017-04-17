@@ -7,12 +7,12 @@ These are the basic specs for Relational Databases, broken into 5 stages. If you
 
 Setup repo, complete a Khan Academy project, and install PostgreSQL. For instructions on installing PostgreSQL, see the guides in Resources > Guides.
 
- - [ ] Artifact repo is created on GitHub.
- - [ ] The artifact repo is properly licensed, preferably with the MIT license.
- - [ ] Solution SQL for the Khan Academy project: Design a store database is added to a file in your repo named store_db.sql
- - [ ] SQL in store_db.sql has consistent indentation.
- - [ ] All the SQL keywords in store_db.sql are written in ALL CAPS.
- - [ ] PostgreSQL is installed on your computer with Homebrew.
+ - [x] Artifact repo is created on GitHub.
+ - [x] The artifact repo is properly licensed, preferably with the MIT license.
+ - [x] Solution SQL for the Khan Academy project: Design a store database is added to a file in your repo named store_db.sql
+ - [x] SQL in store_db.sql has consistent indentation.
+ - [x] All the SQL keywords in store_db.sql are written in ALL CAPS.
+ - [x] PostgreSQL is installed on your computer with Homebrew.
 
 # Stage 2
 
