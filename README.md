@@ -28,20 +28,20 @@ Complete another Khan Academy project, use the SQL Designer tool, and install th
 
 Create schemas and mock data for the “Bike Shop” and “Music Player” apps from the Init 2 goal. Then run queries against them. Read the Generating Mock Data section to learn how to generate fake data.
 
- - [ ] Folder bike-shop/ exists in your repo.
- - [ ] Database schema SQL (using PostgreSQL syntax) for the Bike Shop from Init 2: OOP Practice with Bike Shop is included in the file bike-shop/schema.sql.
- - [ ] Bike Shop schema matches the specifications in Table Schema for Bike Shop.
- - [ ] Folder music-player/ exists in your repo.
- - [ ] Database schema SQL (using PostgreSQL syntax) for the Music Player from Init 2: OOP Practice with Bike Shop is included in the file music-player/schema.sql.
- - [ ] Music Player schema includes tables and appropriate columns for:
- - [ ] Artists
- - [ ] Albums
- - [ ] Songs
- - [ ] Playlists
- - [ ] Mock data is generated for the Music Player and added to the file music-player/mock_data.sql.
+ - [x] Folder bike-shop/ exists in your repo.
+ - [x] Database schema SQL (using PostgreSQL syntax) for the Bike Shop from Init 2: OOP Practice with Bike Shop is included in the file bike-shop/schema.sql.
+ - [x] Bike Shop schema matches the specifications in Table Schema for Bike Shop.
+ - [x] Folder music-player/ exists in your repo.
+ - [x] Database schema SQL (using PostgreSQL syntax) for the Music Player from Init 2: OOP Practice with Bike Shop is included in the file music-player/schema.sql.
+ - [x] Music Player schema includes tables and appropriate columns for:
+   - [x] Artists
+   - [x] Albums
+   - [x] Songs
+   - [x] Playlists
+ - [x] Mock data is generated for the Music Player and added to the file music-player/mock_data.sql.
  - [ ] Sample queries against the Music Player database are added to the file music-player/queries.sql.
- - [ ] Queries against the Music Player include at least one instance of the following SQL keywords:
-    - [ ] WHERE
+ - [x] Queries against the Music Player include at least one instance of the following SQL keywords:
+    - [x] WHERE
     - [ ]  LIMIT
     - [ ] ORDER BY
     - [ ] LIKE
