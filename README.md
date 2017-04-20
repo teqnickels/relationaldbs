@@ -44,7 +44,7 @@ Create schemas and mock data for the “Bike Shop” and “Music Player” apps
     - [x] WHERE
     - [ ]  LIMIT
     - [ ] ORDER BY
-    - [ ] LIKE
+    - [x] LIKE
     - [ ] AND/OR
     - [ ] HAVING
     - [ ] IN
