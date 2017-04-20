@@ -39,7 +39,7 @@ Create schemas and mock data for the “Bike Shop” and “Music Player” apps
    - [x] Songs
    - [x] Playlists
  - [x] Mock data is generated for the Music Player and added to the file music-player/mock_data.sql.
- - [ ] Sample queries against the Music Player database are added to the file music-player/queries.sql.
+ - [x] Sample queries against the Music Player database are added to the file music-player/queries.sql.
  - [x] Queries against the Music Player include at least one instance of the following SQL keywords:
     - [x] WHERE
     - [ ]  LIMIT
@@ -54,7 +54,7 @@ Create schemas and mock data for the “Bike Shop” and “Music Player” apps
 
 Complete the final Khan Academy project. Design and create schemas for the “Bossggle” and “Mmmarkdown” apps from the Init 1 and Init 3 goals.
 
-- [ ] Solution SQL for the Khan Academy project: App impersonator is added to a file in your repo named app_impersonator.sql
+- [x] Solution SQL for the Khan Academy project: App impersonator is added to a file in your repo named app_impersonator.sql
 - [ ] SQL in app_impersonator.sql has consistent indentation.
 - [ ]  All the SQL keywords in app_impersonator.sql are written in ALL CAPS.
 - [ ]  Folder bossggle/ exists in your repo.
