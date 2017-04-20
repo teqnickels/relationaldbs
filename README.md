@@ -42,13 +42,13 @@ Create schemas and mock data for the “Bike Shop” and “Music Player” apps
  - [x] Sample queries against the Music Player database are added to the file music-player/queries.sql.
  - [x] Queries against the Music Player include at least one instance of the following SQL keywords:
     - [x] WHERE
-    - [ ]  LIMIT
-    - [ ] ORDER BY
+    - [x]  LIMIT
+    - [x] ORDER BY
     - [x] LIKE
-    - [ ] AND/OR
-    - [ ] HAVING
-    - [ ] IN
-    - [ ] JOIN
+    - [x] AND/OR
+    - [x] HAVING
+    - [x] IN
+    - [x] JOIN
 
 # Stage 4
 
