@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS hiphop;
+DROP TABLE IF EXISTS music;
 
 CREATE TABLE music (
   id SERIAL PRIMARY KEY,
@@ -8,50 +8,6 @@ CREATE TABLE music (
   playlists VARCHAR,
   rating INTEGER
 );
-
--- DROP TABLE IF EXISTS pop;
---
--- CREATE TABLE pop (
---   id SERIAL PRIMARY KEY,
---   artist VARCHAR,
---   album VARCHAR,
---   songs VARCHAR,
---   playlists VARCHAR,
---   rating INTEGER
--- );
---
--- DROP TABLE IF EXISTS r_b;
---
--- CREATE TABLE r_b (
---   id SERIAL PRIMARY KEY,
---   artist VARCHAR,
---   album VARCHAR,
---   songs VARCHAR,
---   playlists VARCHAR,
---   rating INTEGER
--- );
---
--- DROP TABLE IF EXISTS alternative;
---
--- CREATE TABLE alternative (
---   id SERIAL PRIMARY KEY,
---   artist VARCHAR,
---   album VARCHAR,
---   songs VARCHAR,
---   playlists VARCHAR,
---   rating INTEGER
--- );
---
--- DROP TABLE IF EXISTS jazz;
---
--- CREATE TABLE jazz (
---   id SERIAL PRIMARY KEY,
---   artist VARCHAR,
---   album VARCHAR,
---   songs VARCHAR,
---   playlists VARCHAR,
---   rating INTEGER
--- );
 
 DROP TABLE IF EXISTS artists;
 
