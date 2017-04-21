@@ -74,7 +74,7 @@ Complete the final Khan Academy project. Design and create schemas for the “Bo
   - [x]  Show file with particular name
   - [x]  Get text content of file with particular name
   - [x]  List created date of all files
-  - [ ]  List every file name and its word count
+  - [x]  List every file name and its word count
 
 # Stage 5
 
