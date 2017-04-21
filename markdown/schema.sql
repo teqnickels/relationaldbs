@@ -27,3 +27,4 @@ SELECT * FROM files ORDER BY TIMESTAMP;
 SELECT * FROM files WHERE name = 'Third Entry';
 SELECT content FROM files WHERE name = 'First Entry';
 SELECT track FROM files;
+SELECT * FROM files WHERE array_length(regexp_split_to_array(content, '\s+'), 1) > 0;
